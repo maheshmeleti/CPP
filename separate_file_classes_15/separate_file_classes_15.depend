@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543558728 source:c:\users\uma maheswara rao\pictures\cpp\separate_file_classes_15\meleti.cpp
+	"meleti.h"
+	<iostream>
+
+1543558070 c:\users\uma maheswara rao\pictures\cpp\separate_file_classes_15\meleti.h
+
+1543558784 source:c:\users\uma maheswara rao\pictures\cpp\separate_file_classes_15\main.cpp
+	<iostream>
+	"meleti.h"
+

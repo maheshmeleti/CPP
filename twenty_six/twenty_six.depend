@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543669476 source:c:\users\uma maheswara rao\pictures\cpp\twenty_six\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

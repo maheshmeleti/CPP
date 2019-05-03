@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543820211 source:c:\users\uma maheswara rao\pictures\cpp\recursion_31\main.cpp
+	<iostream>
+
+1543820868 source:c:\users\uma maheswara rao\pictures\cpp\recursion_31\src\sally.cpp
+	"sally.h"
+	<iostream>
+
+1543820868 c:\users\uma maheswara rao\pictures\cpp\recursion_31\include\sally.h
+

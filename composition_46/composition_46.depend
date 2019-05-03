@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1543903573 source:c:\users\uma maheswara rao\pictures\cpp\composition_46\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1543903524 c:\users\uma maheswara rao\pictures\cpp\composition_46\include\birthday.h
+
+1543903684 source:c:\users\uma maheswara rao\pictures\cpp\composition_46\src\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+
+1543903657 c:\users\uma maheswara rao\pictures\cpp\composition_46\include\people.h
+	<string>
+	"Birthday.h"
+
+1543903708 source:c:\users\uma maheswara rao\pictures\cpp\composition_46\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+

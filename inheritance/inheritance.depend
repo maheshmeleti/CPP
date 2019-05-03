@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1544007977 source:c:\users\uma maheswara rao\pictures\cpp\inheritance\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1544007311 c:\users\uma maheswara rao\pictures\cpp\inheritance\include\mother.h
+
+1544008120 c:\users\uma maheswara rao\pictures\cpp\inheritance\include\daughter.h
+
+1544008120 source:c:\users\uma maheswara rao\pictures\cpp\inheritance\src\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1544007311 source:c:\users\uma maheswara rao\pictures\cpp\inheritance\src\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+

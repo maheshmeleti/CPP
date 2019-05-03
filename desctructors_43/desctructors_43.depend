@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543901740 source:c:\users\uma maheswara rao\pictures\cpp\desctructors_43\main.cpp
+	<iostream>
+	"Sally.h"
+
+1543901740 c:\users\uma maheswara rao\pictures\cpp\desctructors_43\include\sally.h
+
+1543901740 source:c:\users\uma maheswara rao\pictures\cpp\desctructors_43\src\sally.cpp
+	<iostream>
+	"Sally.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543942753 source:c:\users\uma maheswara rao\pictures\cpp\this_49\main.cpp
+	<iostream>
+	"Hannah.h"
+
+1543942761 c:\users\uma maheswara rao\pictures\cpp\this_49\include\hannah.h
+
+1543942753 source:c:\users\uma maheswara rao\pictures\cpp\this_49\src\hannah.cpp
+	<iostream>
+	"Hannah.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544002233 source:c:\users\uma maheswara rao\pictures\cpp\operator_overloading_51\main.cpp
+	<iostream>
+	"Sally.h"
+
+1544002117 c:\users\uma maheswara rao\pictures\cpp\operator_overloading_51\include\sally.h
+
+1544002117 source:c:\users\uma maheswara rao\pictures\cpp\operator_overloading_51\src\sally.cpp
+	<iostream>
+	"Sally.h"
+
